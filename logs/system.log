@@ -1,0 +1,301 @@
+==============================
+Run at: Wed Apr 22 11:29:36 AM IST 2026
+==============================
+ 11:29:36 up  1:04,  1 user,  load average: 0.85, 0.77, 0.56
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       3.5Gi       638Mi       531Mi       4.3Gi       4.0Gi
+Swap:          4.0Gi       416Ki       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.8M  764M   1% /run
+/dev/nvme0n1p7   98G   20G   74G  21% /
+tmpfs           3.8G   41M  3.8G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 11:29:38 AM IST 2026
+==============================
+ 11:29:38 up  1:04,  1 user,  load average: 0.86, 0.78, 0.57
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       3.5Gi       636Mi       533Mi       4.3Gi       4.0Gi
+Swap:          4.0Gi       416Ki       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.8M  764M   1% /run
+/dev/nvme0n1p7   98G   20G   74G  21% /
+tmpfs           3.8G   41M  3.8G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 11:29:41 AM IST 2026
+==============================
+ 11:29:41 up  1:04,  1 user,  load average: 0.88, 0.78, 0.57
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       3.5Gi       641Mi       533Mi       4.3Gi       4.0Gi
+Swap:          4.0Gi       416Ki       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.8M  764M   1% /run
+/dev/nvme0n1p7   98G   20G   74G  21% /
+tmpfs           3.8G   41M  3.8G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 11:29:44 AM IST 2026
+==============================
+ 11:29:44 up  1:04,  1 user,  load average: 0.88, 0.78, 0.57
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       3.5Gi       641Mi       532Mi       4.3Gi       4.0Gi
+Swap:          4.0Gi       416Ki       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.8M  764M   1% /run
+/dev/nvme0n1p7   98G   20G   74G  21% /
+tmpfs           3.8G   41M  3.8G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 11:33:15 AM IST 2026
+==============================
+ 11:33:15 up  1:07,  1 user,  load average: 0.36, 0.64, 0.55
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       3.5Gi       644Mi       519Mi       4.3Gi       4.0Gi
+Swap:          4.0Gi       416Ki       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.8M  764M   1% /run
+/dev/nvme0n1p7   98G   20G   74G  21% /
+tmpfs           3.8G   41M  3.8G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 11:34:30 AM IST 2026
+==============================
+ 11:34:30 up  1:08,  1 user,  load average: 0.26, 0.54, 0.53
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       3.5Gi       642Mi       506Mi       4.3Gi       4.0Gi
+Swap:          4.0Gi       416Ki       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.8M  764M   1% /run
+/dev/nvme0n1p7   98G   20G   74G  21% /
+tmpfs           3.8G   43M  3.7G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 11:34:30 AM IST 2026
+==============================
+ 11:34:30 up  1:08,  1 user,  load average: 0.26, 0.54, 0.53
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       3.5Gi       638Mi       508Mi       4.3Gi       4.0Gi
+Swap:          4.0Gi       416Ki       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.8M  764M   1% /run
+/dev/nvme0n1p7   98G   20G   74G  21% /
+tmpfs           3.8G   43M  3.7G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 11:35:35 AM IST 2026
+==============================
+ 11:35:35 up  1:09,  1 user,  load average: 1.13, 0.73, 0.59
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       3.5Gi       577Mi       543Mi       4.3Gi       4.0Gi
+Swap:          4.0Gi       416Ki       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.8M  764M   1% /run
+/dev/nvme0n1p7   98G   20G   74G  21% /
+tmpfs           3.8G   41M  3.8G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 11:38:15 AM IST 2026
+==============================
+ 11:38:15 up  1:12,  1 user,  load average: 0.23, 0.55, 0.54
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       3.5Gi       618Mi       504Mi       4.3Gi       4.0Gi
+Swap:          4.0Gi       416Ki       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.8M  764M   1% /run
+/dev/nvme0n1p7   98G   20G   74G  21% /
+tmpfs           3.8G   41M  3.8G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 11:38:27 AM IST 2026
+==============================
+ 11:38:27 up  1:12,  1 user,  load average: 0.26, 0.54, 0.54
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       3.5Gi       626Mi       504Mi       4.3Gi       4.0Gi
+Swap:          4.0Gi       416Ki       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.8M  764M   1% /run
+/dev/nvme0n1p7   98G   20G   74G  21% /
+tmpfs           3.8G   41M  3.8G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 11:38:34 AM IST 2026
+==============================
+ 11:38:34 up  1:12,  1 user,  load average: 0.24, 0.53, 0.54
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       3.5Gi       614Mi       505Mi       4.3Gi       4.0Gi
+Swap:          4.0Gi       416Ki       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.8M  764M   1% /run
+/dev/nvme0n1p7   98G   20G   74G  21% /
+tmpfs           3.8G   42M  3.7G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 11:45:34 AM IST 2026
+==============================
+ 11:45:34 up  1:19,  1 user,  load average: 0.65, 0.64, 0.59
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       3.6Gi       474Mi       555Mi       4.4Gi       3.9Gi
+Swap:          4.0Gi       416Ki       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.8M  764M   1% /run
+/dev/nvme0n1p7   98G   20G   74G  21% /
+tmpfs           3.8G   47M  3.7G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 11:47:04 AM IST 2026
+==============================
+ 11:47:04 up  1:21,  1 user,  load average: 0.33, 0.53, 0.55
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       3.5Gi       610Mi       488Mi       4.3Gi       4.0Gi
+Swap:          4.0Gi       416Ki       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.8M  764M   1% /run
+/dev/nvme0n1p7   98G   20G   74G  21% /
+tmpfs           3.8G   42M  3.7G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  128K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 05:08:50 PM IST 2026
+==============================
+ 17:08:50 up 12 min,  1 user,  load average: 0.12, 0.19, 0.10
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       2.2Gi       3.2Gi       253Mi       2.6Gi       5.3Gi
+Swap:          4.0Gi          0B       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.5M  764M   1% /run
+/dev/nvme0n1p7   98G   19G   75G  21% /
+tmpfs           3.8G     0  3.8G   0% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  128K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 05:09:36 PM IST 2026
+==============================
+ 17:09:36 up 12 min,  1 user,  load average: 0.05, 0.16, 0.09
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       2.2Gi       3.2Gi       270Mi       2.6Gi       5.3Gi
+Swap:          4.0Gi          0B       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.4M  764M   1% /run
+/dev/nvme0n1p7   98G   19G   75G  21% /
+tmpfs           3.8G     0  3.8G   0% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  128K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 05:09:39 PM IST 2026
+==============================
+ 17:09:39 up 12 min,  1 user,  load average: 0.05, 0.16, 0.09
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       2.2Gi       3.2Gi       272Mi       2.6Gi       5.3Gi
+Swap:          4.0Gi          0B       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.4M  764M   1% /run
+/dev/nvme0n1p7   98G   19G   75G  21% /
+tmpfs           3.8G     0  3.8G   0% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  128K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 05:09:40 PM IST 2026
+==============================
+ 17:09:40 up 12 min,  1 user,  load average: 0.05, 0.16, 0.09
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       2.2Gi       3.2Gi       272Mi       2.6Gi       5.3Gi
+Swap:          4.0Gi          0B       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.4M  764M   1% /run
+/dev/nvme0n1p7   98G   19G   75G  21% /
+tmpfs           3.8G     0  3.8G   0% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  128K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 05:09:44 PM IST 2026
+==============================
+ 17:09:44 up 12 min,  1 user,  load average: 0.05, 0.15, 0.09
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       2.2Gi       3.2Gi       270Mi       2.6Gi       5.3Gi
+Swap:          4.0Gi          0B       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.4M  764M   1% /run
+/dev/nvme0n1p7   98G   19G   75G  21% /
+tmpfs           3.8G     0  3.8G   0% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  128K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 05:13:18 PM IST 2026
+==============================
+ 17:13:18 up 16 min,  1 user,  load average: 0.89, 0.49, 0.24
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       2.9Gi       2.5Gi       503Mi       2.9Gi       4.6Gi
+Swap:          4.0Gi          0B       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.5M  764M   1% /run
+/dev/nvme0n1p7   98G   19G   75G  21% /
+tmpfs           3.8G   27M  3.8G   1% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+==============================
+Run at: Wed Apr 22 05:16:40 PM IST 2026
+==============================
+ 17:16:40 up 19 min,  1 user,  load average: 0.48, 0.56, 0.32
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       2.9Gi       2.4Gi       460Mi       2.9Gi       4.6Gi
+Swap:          4.0Gi          0B       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.5M  764M   1% /run
+/dev/nvme0n1p7   98G   19G   75G  21% /
+tmpfs           3.8G   27M  3.8G   1% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+
