@@ -1,4 +1,5 @@
-🖥️ Linux Health Monitoring Tool
+# 🖥️ Linux Health Monitoring Tool
+
 📌 Description
 
 A lightweight Bash-based tool to monitor system health by tracking CPU, memory, and disk usage. It displays real-time data and logs system performance for basic analysis.
