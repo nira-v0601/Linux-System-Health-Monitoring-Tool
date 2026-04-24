@@ -347,3 +347,51 @@ efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
 /dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
 tmpfs           767M  124K  766M   1% /run/user/1000
 
+==============================
+Run at: Fri Apr 24 02:06:35 PM IST 2026
+==============================
+ 14:06:35 up 1 min,  1 user,  load average: 0.32, 0.18, 0.07
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       1.6Gi       5.0Gi       253Mi       1.4Gi       5.9Gi
+Swap:          4.0Gi          0B       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.6M  764M   1% /run
+/dev/nvme0n1p7   98G   21G   72G  23% /
+tmpfs           3.8G     0  3.8G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  124K  766M   1% /run/user/1000
+
+==============================
+Run at: Fri 24 Apr 2026 06:21:50 PM IST
+==============================
+ 18:21:50 up 1 min,  1 user,  load average: 1.54, 0.56, 0.20
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       2.6Gi       3.6Gi       318Mi       1.9Gi       4.9Gi
+Swap:          4.0Gi          0B       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.5M  764M   1% /run
+/dev/nvme0n1p7   98G   21G   73G  23% /
+tmpfs           3.8G   45M  3.7G   2% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  120K  766M   1% /run/user/1000
+
+==============================
+Run at: Fri Apr 24 06:23:18 PM IST 2026
+==============================
+ 18:23:18 up 2 min,  1 user,  load average: 0.86, 0.56, 0.23
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       2.6Gi       3.4Gi       389Mi       2.0Gi       4.9Gi
+Swap:          4.0Gi          0B       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           767M  2.6M  764M   1% /run
+/dev/nvme0n1p7   98G   21G   73G  23% /
+tmpfs           3.8G   80M  3.7G   3% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+efivarfs        192K  136K   52K  73% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  256M   55M  202M  22% /boot/efi
+tmpfs           767M  132K  766M   1% /run/user/1000
+
