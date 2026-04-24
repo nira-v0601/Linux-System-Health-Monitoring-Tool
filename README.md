@@ -12,4 +12,3 @@ The main script (monitor.sh) collects system metrics by calling separate modules
 - Real-time system monitoring
 - Modular script design
 - Logging of system metrics
-- Simple and efficient execution
